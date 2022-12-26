@@ -2,8 +2,8 @@
 - 👀 I’m interested in Web Developing.
 - 🌱 I’m currently learning Web Developing.
 - 💞️ I’m looking to collaborate on Web Developing.
-- 📫 How to reach me Em@il..linyarzaraung94@gmail.com
--                     Facebook...https://www.facebook.com/linyarzar.aung/
+- 📫 How to reach me Em@il : linyarzaraung94@gmail.com
+-                     Facebook : https://www.facebook.com/linyarzar.aung/
 -                     WhatsApp link : https://api.whatsapp.com/send?phone=+959778085918&text&app_absent=0
 
 <!---
